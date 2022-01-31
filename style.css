@@ -470,4 +470,8 @@ body{
     .container{
         padding: 20px;
     }
+    .capsule {
+    line-height: 48px;
+    border-radius: 48px;
+    }   
 }
